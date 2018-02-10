@@ -1,0 +1,24 @@
+{
+	"pages": {
+		"angular-guide" : {
+			"description" : "Master Angular (Angular 2+, incl. Angular 5) and build awesome, reactive web apps",
+			"title" : "Angular - Guide",
+			"url" : "angular2-guide"
+		},
+		"ionic3-from-scratch" : {
+			"description" : "Create Cross Platform Mobile Applications with ionic 3, Angular 4, TypeScript and Firebase",
+			"title" : "Ionic 3 From Scratch",
+			"url" : "ionic3"
+		},
+		"react-with-redux" : {
+			"description" : "React and REdix with this tutorial as you develop apps with React Router, Webpack, and more",
+			"title" : "React with Redux",
+			"url" : "react-with-redux"
+		},
+		"vuejs2-guide" : {
+			"description" : "Vue JS is an awesome JavaScript Framework for building Fronend Appliations!",
+			"title" : "Vue.js 2",
+			"url" : "vuejs2-guide"
+		}
+	}
+}
