@@ -5,15 +5,18 @@ import { AngularFireDatabaseModule } from "angularfire2/database";
 
 import { environment } from "../environments/environment";
 import { AppComponent } from './app.component';
+import { PagesListComponent } from './pages-list/pages-list.component';
 
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    PagesListComponent
   ],
   imports: [
     BrowserModule,
-    AngularFireModule.initializeApp(environment.firebaseConfig)
+    AngularFireModule.initializeApp(environment.firebaseConfig),
+    AngularFireDatabaseModule
   ],
   providers: [],
   bootstrap: [AppComponent]
