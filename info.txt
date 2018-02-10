@@ -1,0 +1,1 @@
+json file is imported straight to firebase
